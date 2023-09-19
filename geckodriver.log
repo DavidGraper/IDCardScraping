@@ -1,0 +1,616 @@
+1694193150309	geckodriver	INFO	Listening on 127.0.0.1:41351
+1694193150339	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKlWyBX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694193151099	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694193151255	Marionette	INFO	Listening on port 40611
+WebDriver BiDi listening on ws://127.0.0.1:54427
+Read port: 40611
+1694193151556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54427/devtools/browser/7c6cfc45-04d7-4216-9aba-3c17f6cfae6e
+JavaScript error: https://groceries.asda.com/service-worker.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at ./workbox-63861dda.js (nsresult = 0x80530013)
+JavaScript warning: https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js, line 2: Script terminated by timeout at:
+p@https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js:2:5529
+@https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js:2:3639
+
+1694193174976	Marionette	INFO	Stopped listening on port 40611
+1694194240215	geckodriver	INFO	Listening on 127.0.0.1:52679
+1694194240249	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledBnwgt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694194240965	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694194241125	Marionette	INFO	Listening on port 35779
+Read port: 35779
+WebDriver BiDi listening on ws://127.0.0.1:58895
+1694194241231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58895/devtools/browser/bd279c98-9df7-44a2-9532-ba8d3087f876
+JavaScript error: https://groceries.asda.com/service-worker.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at ./workbox-63861dda.js (nsresult = 0x80530013)
+JavaScript warning: https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js, line 2: Script terminated by timeout at:
+p@https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js:2:5529
+@https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js:2:3639
+
+1694194265729	Marionette	INFO	Stopped listening on port 35779
+1694194464371	geckodriver	INFO	Listening on 127.0.0.1:43213
+1694194464401	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2tRn7j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694194464964	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694194465070	Marionette	INFO	Listening on port 39009
+WebDriver BiDi listening on ws://127.0.0.1:58295
+Read port: 39009
+1694194465255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58295/devtools/browser/340a37ab-d9b0-492a-ade0-8fabd0b7f770
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+1694194503631	Marionette	INFO	Stopped listening on port 39009
+1694195523557	geckodriver	INFO	Listening on 127.0.0.1:46289
+1694195523588	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejYceFQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694195524234	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694195524360	Marionette	INFO	Listening on port 33953
+WebDriver BiDi listening on ws://127.0.0.1:39087
+Read port: 33953
+1694195524525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39087/devtools/browser/4201c7d5-7ab4-4096-8792-536411dcc1d0
+JavaScript error: https://groceries.asda.com/service-worker.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at ./workbox-63861dda.js (nsresult = 0x80530013)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cHcu3EGdo_M2vyRVVDr4aifYAmzuFrNOMQiPLv8ePBs.js line 2 > eval line 753 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://groceries.asda.com/px/PX1UGLZTko/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=groceries.asda.com&origin=onetag&gdpr=1&gdpr_consent=CPx0bjPPx0bjPAcABBENDWCgAAAAAAAAAChQAAAAAAIhIDgACwAKgAcgA8AEAAMgAaAA8ACIAEwAJ4AVQA_ACEAEcAJYATQApQBbgD4AH6ASkBDoC8wGTgM-AcEBC8CH4QASAA8Ac4BBwGLAMmAfuBCoCHgEPg0AUAgoBaAEOgMYAZ8GABAHUAh8IgBAIdAZ8IAAgQ-FAAQCCioAgBaAEggM-AheMgBAM-AheOgUAALAAqAByAD4AQAAyABoADwAIgATAAngBVAC4AGIAMwAfgBLACYAE0AKMAUoAtwBogD9AIsASkAsQBaADqAIdASCAvMBjADJwGWAMzAZ8A1UBxYELwIdDgCQADwALgA5ADQAOcAdwBBYCDgIQAUsA8gCmAGLAMmAaaA_cCFQEPAIfEICAACwAmABVAC4AGIARwBKQC0AHUASCAycBnwDVQHAAQvAh0QACgBoAHOAQUApYBYiUBUABYAHAAPgA8ACIAEwAKoAXAAxACOAFGALcAtAB1AEOgLzAZOAz4BwAELwIakgA4AFwAcgDuAKWAxYB-4EPikCAABYAFQAOQAfACAAGQANAAeABEACYAE8AKoAYgAzAB-AFGAKUAW4A0QB-gEWAJSAh0BeYDGAGTgMsAZ8A4ICF4EMwIdARAKAEgALgA5ADaAI4Ac4A7gCTgFLALEAXUA8gB_wFMAMWAZMA_cCFQEPgAAA.YAAAAAAAAAAA#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22asda.com%22,%22topUrl%22:%22groceries.asda.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=groceries.asda.com&origin=onetag&gdpr=1&gdpr_consent=CPx0bjPPx0bjPAcABBENDWCgAAAAAAAAAChQAAAAAAIhIDgACwAKgAcgA8AEAAMgAaAA8ACIAEwAJ4AVQA_ACEAEcAJYATQApQBbgD4AH6ASkBDoC8wGTgM-AcEBC8CH4QASAA8Ac4BBwGLAMmAfuBCoCHgEPg0AUAgoBaAEOgMYAZ8GABAHUAh8IgBAIdAZ8IAAgQ-FAAQCCioAgBaAEggM-AheMgBAM-AheOgUAALAAqAByAD4AQAAyABoADwAIgATAAngBVAC4AGIAMwAfgBLACYAE0AKMAUoAtwBogD9AIsASkAsQBaADqAIdASCAvMBjADJwGWAMzAZ8A1UBxYELwIdDgCQADwALgA5ADQAOcAdwBBYCDgIQAUsA8gCmAGLAMmAaaA_cCFQEPAIfEICAACwAmABVAC4AGIARwBKQC0AHUASCAycBnwDVQHAAQvAh0QACgBoAHOAQUApYBYiUBUABYAHAAPgA8ACIAEwAKoAXAAxACOAFGALcAtAB1AEOgLzAZOAz4BwAELwIakgA4AFwAcgDuAKWAxYB-4EPikCAABYAFQAOQAfACAAGQANAAeABEACYAE8AKoAYgAzAB-AFGAKUAW4A0QB-gEWAJSAh0BeYDGAGTgMsAZ8A4ICF4EMwIdARAKAEgALgA5ADaAI4Ac4A7gCTgFLALEAXUA8gB_wFMAMWAZMA_cCFQEPgAAA.YAAAAAAAAAAA#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22asda.com%22,%22topUrl%22:%22groceries.asda.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=groceries.asda.com&origin=onetag&gdpr=1&gdpr_consent=CPx0bjPPx0bjPAcABBENDWCgAAAAAAAAAChQAAAAAAIhIDgACwAKgAcgA8AEAAMgAaAA8ACIAEwAJ4AVQA_ACEAEcAJYATQApQBbgD4AH6ASkBDoC8wGTgM-AcEBC8CH4QASAA8Ac4BBwGLAMmAfuBCoCHgEPg0AUAgoBaAEOgMYAZ8GABAHUAh8IgBAIdAZ8IAAgQ-FAAQCCioAgBaAEggM-AheMgBAM-AheOgUAALAAqAByAD4AQAAyABoADwAIgATAAngBVAC4AGIAMwAfgBLACYAE0AKMAUoAtwBogD9AIsASkAsQBaADqAIdASCAvMBjADJwGWAMzAZ8A1UBxYELwIdDgCQADwALgA5ADQAOcAdwBBYCDgIQAUsA8gCmAGLAMmAaaA_cCFQEPAIfEICAACwAmABVAC4AGIARwBKQC0AHUASCAycBnwDVQHAAQvAh0QACgBoAHOAQUApYBYiUBUABYAHAAPgA8ACIAEwAKoAXAAxACOAFGALcAtAB1AEOgLzAZOAz4BwAELwIakgA4AFwAcgDuAKWAxYB-4EPikCAABYAFQAOQAfACAAGQANAAeABEACYAE8AKoAYgAzAB-AFGAKUAW4A0QB-gEWAJSAh0BeYDGAGTgMsAZ8A4ICF4EMwIdARAKAEgALgA5ADaAI4Ac4A7gCTgFLALEAXUA8gB_wFMAMWAZMA_cCFQEPgAAA.YAAAAAAAAAAA#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22asda.com%22,%22topUrl%22:%22groceries.asda.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=groceries.asda.com&origin=onetag&gdpr=1&gdpr_consent=CPx0bjPPx0bjPAcABBENDWCgAAAAAAAAAChQAAAAAAIhIDgACwAKgAcgA8AEAAMgAaAA8ACIAEwAJ4AVQA_ACEAEcAJYATQApQBbgD4AH6ASkBDoC8wGTgM-AcEBC8CH4QASAA8Ac4BBwGLAMmAfuBCoCHgEPg0AUAgoBaAEOgMYAZ8GABAHUAh8IgBAIdAZ8IAAgQ-FAAQCCioAgBaAEggM-AheMgBAM-AheOgUAALAAqAByAD4AQAAyABoADwAIgATAAngBVAC4AGIAMwAfgBLACYAE0AKMAUoAtwBogD9AIsASkAsQBaADqAIdASCAvMBjADJwGWAMzAZ8A1UBxYELwIdDgCQADwALgA5ADQAOcAdwBBYCDgIQAUsA8gCmAGLAMmAaaA_cCFQEPAIfEICAACwAmABVAC4AGIARwBKQC0AHUASCAycBnwDVQHAAQvAh0QACgBoAHOAQUApYBYiUBUABYAHAAPgA8ACIAEwAKoAXAAxACOAFGALcAtAB1AEOgLzAZOAz4BwAELwIakgA4AFwAcgDuAKWAxYB-4EPikCAABYAFQAOQAfACAAGQANAAeABEACYAE8AKoAYgAzAB-AFGAKUAW4A0QB-gEWAJSAh0BeYDGAGTgMsAZ8A4ICF4EMwIdARAKAEgALgA5ADaAI4Ac4A7gCTgFLALEAXUA8gB_wFMAMWAZMA_cCFQEPgAAA.YAAAAAAAAAAA#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22asda.com%22,%22topUrl%22:%22groceries.asda.com%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+JavaScript warning: https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js, line 2: Script terminated by timeout at:
+p@https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js:2:5529
+@https://groceries.asda.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js:2:3639
+
+1694195568021	Marionette	INFO	Stopped listening on port 33953
+1694449483330	geckodriver	INFO	Listening on 127.0.0.1:36009
+1694449483854	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenBp5RC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694449484567	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694449484760	Marionette	INFO	Listening on port 43715
+WebDriver BiDi listening on ws://127.0.0.1:38401
+Read port: 43715
+1694449485045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38401/devtools/browser/68f7bf44-50cb-436d-8e9e-da2403a48135
+JavaScript error: https://groceries.asda.com/service-worker.js, line 1: NetworkError: WorkerGlobalScope.importScripts: Failed to load worker script at ./workbox-63861dda.js (nsresult = 0x80530013)
+JavaScript warning: https://groceries.asda.com/px/PX1UGLZTko/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=groceries.asda.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22asda.com%22,%22topUrl%22:%22groceries.asda.com%22,%22version%22:%225_18_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=groceries.asda.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22asda.com%22,%22topUrl%22:%22groceries.asda.com%22,%22version%22:%225_18_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=groceries.asda.com&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22asda.com%22,%22topUrl%22:%22groceries.asda.com%22,%22version%22:%225_18_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694449626079	geckodriver	INFO	Listening on 127.0.0.1:56705
+1694449626105	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezTgwMA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694449626637	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694449626764	Marionette	INFO	Listening on port 44043
+WebDriver BiDi listening on ws://127.0.0.1:51633
+Read port: 44043
+1694449626981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51633/devtools/browser/236623b1-eddb-4f01-8883-54eaf71cf154
+1694450258976	geckodriver	INFO	Listening on 127.0.0.1:60007
+1694450259011	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQx0ueV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694450259560	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694450259688	Marionette	INFO	Listening on port 42231
+WebDriver BiDi listening on ws://127.0.0.1:57199
+Read port: 42231
+1694450259845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57199/devtools/browser/00a924eb-0627-4eca-9a18-426e59338ce4
+1694450536936	geckodriver	INFO	Listening on 127.0.0.1:33313
+1694450536967	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile27udlI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694450537500	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694450537625	Marionette	INFO	Listening on port 39805
+WebDriver BiDi listening on ws://127.0.0.1:49905
+Read port: 39805
+1694450537837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49905/devtools/browser/5b558b57-5474-4a77-9e11-a8b87c7cbfb1
+1694450954158	geckodriver	INFO	Listening on 127.0.0.1:47555
+1694450954195	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileda8wlo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694450954764	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694450954893	Marionette	INFO	Listening on port 35755
+Read port: 35755
+WebDriver BiDi listening on ws://127.0.0.1:55223
+1694450954962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55223/devtools/browser/812e98df-32ca-4db1-bb30-b698b622d957
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694451084195	geckodriver	INFO	Listening on 127.0.0.1:52275
+1694451084226	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuVqPb3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451084769	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451084885	Marionette	INFO	Listening on port 36873
+WebDriver BiDi listening on ws://127.0.0.1:49107
+Read port: 36873
+1694451085089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49107/devtools/browser/f3b0235d-133b-41a8-a1f6-58cfff23d0a0
+[Parent 6330, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:6330): GLib-GObject-CRITICAL **: 12:51:38.217: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 6330, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:6330): GLib-GObject-CRITICAL **: 12:51:38.217: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694451153234	geckodriver	INFO	Listening on 127.0.0.1:53105
+1694451153265	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexiFj8J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451153810	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451153935	Marionette	INFO	Listening on port 39183
+WebDriver BiDi listening on ws://127.0.0.1:41819
+Read port: 39183
+1694451154102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41819/devtools/browser/e1f9d83f-16dc-422a-86e4-eaf95a4f6c08
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694451176299	geckodriver	INFO	Listening on 127.0.0.1:38479
+1694451176330	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileG5Mi6v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451176852	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451176995	Marionette	INFO	Listening on port 40255
+WebDriver BiDi listening on ws://127.0.0.1:34409
+Read port: 40255
+1694451177206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34409/devtools/browser/3348533d-d188-4d20-b8ee-bc02ec5e279e
+[Parent 7030, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:7030): GLib-GObject-CRITICAL **: 12:53:07.502: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Parent 7030, Main Thread] WARNING: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:7030): GLib-GObject-CRITICAL **: 12:53:07.502: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694451232552	geckodriver	INFO	Listening on 127.0.0.1:49225
+1694451232580	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFIrODb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451233132	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451233252	Marionette	INFO	Listening on port 35843
+WebDriver BiDi listening on ws://127.0.0.1:55357
+Read port: 35843
+1694451233420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55357/devtools/browser/0cb660f9-a626-4fbe-a377-9f12ad8f94dd
+JavaScript warning: https://cdn.decibelinsight.net/i/13214/58569/di.js, line 36: Script terminated by timeout at:
+a.prototype.process@https://cdn.decibelinsight.net/i/13214/58569/di.js:36:832
+c@https://cdn.decibelinsight.net/i/13214/58569/di.js:36:971
+a.prototype.socketClose@https://cdn.decibelinsight.net/i/13214/58569/di.js:36:5261
+a.prototype.socketClose@https://cdn.decibelinsight.net/i/13214/58569/di.js:36:6838
+onPageHide@https://cdn.decibelinsight.net/i/13214/58569/di.js:38:17941
+n/<@https://cdn.decibelinsight.net/i/13214/58569/di.js:33:1372
+
+1694451262591	Marionette	INFO	Stopped listening on port 43715
+[2801] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694451266426	Marionette	INFO	Stopped listening on port 44043
+1694451269301	Marionette	INFO	Stopped listening on port 42231
+1694451272790	Marionette	INFO	Stopped listening on port 39805
+[5296] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694451275788	Marionette	INFO	Stopped listening on port 35843
+1694451568895	geckodriver	INFO	Listening on 127.0.0.1:57991
+1694451568924	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile95gU0S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451569453	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451569584	Marionette	INFO	Listening on port 40515
+WebDriver BiDi listening on ws://127.0.0.1:41799
+Read port: 40515
+1694451569782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41799/devtools/browser/ec98e677-491e-4bbd-9248-e2f04e8ef0e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+1694530930510	geckodriver	INFO	Listening on 127.0.0.1:42777
+1694530931058	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehkDzdL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694530931761	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694530931945	Marionette	INFO	Listening on port 40215
+Read port: 40215
+WebDriver BiDi listening on ws://127.0.0.1:44923
+1694530932023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44923/devtools/browser/ce65963f-6148-462b-bbfe-d31ccdbf1739
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694531800884	geckodriver	INFO	Listening on 127.0.0.1:40179
+1694531800915	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVevjYm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694531801436	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694531801559	Marionette	INFO	Listening on port 39427
+WebDriver BiDi listening on ws://127.0.0.1:47699
+Read port: 39427
+1694531801765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47699/devtools/browser/b0bee2d9-c20c-49c1-9a40-dcd337e1d23d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694533955230	geckodriver	INFO	Listening on 127.0.0.1:39991
+1694533955258	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRhkute"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694533955802	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694533955924	Marionette	INFO	Listening on port 41627
+WebDriver BiDi listening on ws://127.0.0.1:53273
+Read port: 41627
+1694533956120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53273/devtools/browser/0641150b-dd2f-419f-ad07-77614431ee2b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694534418816	geckodriver	INFO	Listening on 127.0.0.1:50697
+1694534418846	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWm9tci"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694534419391	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694534419508	Marionette	INFO	Listening on port 41657
+WebDriver BiDi listening on ws://127.0.0.1:39637
+Read port: 41657
+1694534419705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39637/devtools/browser/03933e27-467f-4ea7-8b53-90f62b0d9067
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 397: Script terminated by timeout at:
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:115
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:412
+
+1694534732512	Marionette	INFO	Stopped listening on port 40215
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1694534741271	geckodriver	INFO	Listening on 127.0.0.1:42163
+1694534741303	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF6ZW8L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694534741828	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694534741926	Marionette	INFO	Listening on port 38223
+WebDriver BiDi listening on ws://127.0.0.1:39217
+Read port: 38223
+1694534742146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39217/devtools/browser/2cba7807-d6ff-4851-a3c2-ff375a9569b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694534972151	geckodriver	INFO	Listening on 127.0.0.1:37817
+1694534972183	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7eLted"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694534972718	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694534972817	Marionette	INFO	Listening on port 34653
+WebDriver BiDi listening on ws://127.0.0.1:45161
+Read port: 34653
+1694534973050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45161/devtools/browser/c820963f-4b1e-4541-9e62-4c0936870818
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+JavaScript warning: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Script terminated by timeout at:
+Sd@https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f:2:147399
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694535603028	geckodriver	INFO	Listening on 127.0.0.1:43129
+1694535603058	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYAghpu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694535603571	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694535603669	Marionette	INFO	Listening on port 40237
+WebDriver BiDi listening on ws://127.0.0.1:50777
+Read port: 40237
+1694535603897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50777/devtools/browser/38803852-dfef-479e-a3fb-f2e5cdb7eabf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 400: Script terminated by timeout at:
+aa.oh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:400:42
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:412
+
+1694536021997	Marionette	INFO	Stopped listening on port 40237
+[8738] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694536186941	geckodriver	INFO	Listening on 127.0.0.1:57723
+1694536186967	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepTCzOt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694536187563	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694536187697	Marionette	INFO	Listening on port 37165
+WebDriver BiDi listening on ws://127.0.0.1:45999
+Read port: 37165
+1694536187915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45999/devtools/browser/f2ac712e-d62d-4247-8264-3cefcf21fabe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+1694536395359	geckodriver	INFO	Listening on 127.0.0.1:49711
+1694536395386	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1cinKG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694536395924	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694536396052	Marionette	INFO	Listening on port 45833
+WebDriver BiDi listening on ws://127.0.0.1:51245
+Read port: 45833
+1694536396248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51245/devtools/browser/ba1a1199-7bec-4398-a04a-c86b870f9ec8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694536693611	geckodriver	INFO	Listening on 127.0.0.1:58975
+1694536693643	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevFUOLl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694536694168	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694536694299	Marionette	INFO	Listening on port 33833
+WebDriver BiDi listening on ws://127.0.0.1:34363
+Read port: 33833
+1694536694498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34363/devtools/browser/b0214c53-bbea-43dc-ac69-f2d12b63a8ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 400: Script terminated by timeout at:
+aa.oh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:400:89
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:412
+
+1694537082270	Marionette	INFO	Stopped listening on port 33833
+[10370] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694537794795	geckodriver	INFO	Listening on 127.0.0.1:37875
+1694537794824	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile68Coz0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694537795371	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694537795468	Marionette	INFO	Listening on port 44361
+WebDriver BiDi listening on ws://127.0.0.1:45397
+Read port: 44361
+1694537795686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45397/devtools/browser/01653af3-a5be-488c-b953-7eb187f373a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+1694538024727	geckodriver	INFO	Listening on 127.0.0.1:50893
+1694538024756	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3EckPY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694538025301	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694538025399	Marionette	INFO	Listening on port 44455
+WebDriver BiDi listening on ws://127.0.0.1:48825
+Read port: 44455
+1694538025626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48825/devtools/browser/af13a3d8-dd2d-4d71-a996-6aa8d5b9128f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=0491f, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 400: Script terminated by timeout at:
+aa.oh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:400:89
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:412
+
+1694538407223	Marionette	INFO	Stopped listening on port 44455
+[13300] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 399: Script terminated by timeout at:
+aa.oh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:399:89
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:412
+
+1694539526166	Marionette	INFO	Stopped listening on port 44361
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 399: Script terminated by timeout at:
+aa.oh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:399:89
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:397:412
+
+1694539548413	Marionette	INFO	Stopped listening on port 37165
+[9381] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1695137088457	geckodriver	INFO	Listening on 127.0.0.1:48209
+1695137088983	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile93M1w1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695137089709	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695137089955	Marionette	INFO	Listening on port 41307
+WebDriver BiDi listening on ws://127.0.0.1:46553
+Read port: 41307
+1695137090162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46553/devtools/browser/c520f8e8-d1e2-48d6-a653-3b811c25c949
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 396: Script terminated by timeout at:
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:396:92
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:396:412
+
+1695137265136	Marionette	INFO	Stopped listening on port 41307
+[15539] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
