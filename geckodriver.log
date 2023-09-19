@@ -614,3 +614,233 @@ aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:396:412
 
 1695137265136	Marionette	INFO	Stopped listening on port 41307
 [15539] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1695146664779	geckodriver	INFO	Listening on 127.0.0.1:36983
+1695146664808	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTODcBj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695146665324	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695146665446	Marionette	INFO	Listening on port 40289
+WebDriver BiDi listening on ws://127.0.0.1:58541
+Read port: 40289
+1695146665655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58541/devtools/browser/cfdc37ad-01b3-41fe-8b9a-a1d3fa971c62
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+1695147076637	geckodriver	INFO	Listening on 127.0.0.1:34627
+1695147076665	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepysk3t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695147077190	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695147077307	Marionette	INFO	Listening on port 45337
+WebDriver BiDi listening on ws://127.0.0.1:47789
+Read port: 45337
+1695147077516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47789/devtools/browser/88f94731-40ce-456d-9e39-b611bf3c05ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+1695147373220	geckodriver	INFO	Listening on 127.0.0.1:59051
+1695147373250	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6Hx6Oy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695147373784	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695147373929	Marionette	INFO	Listening on port 35217
+WebDriver BiDi listening on ws://127.0.0.1:42839
+Read port: 35217
+1695147374096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42839/devtools/browser/4e989dcc-f707-4653-b31e-e535c86171d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 400: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:400:42
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:87
+aa.zk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:412
+
+1695147711139	Marionette	INFO	Stopped listening on port 35217
+1695152159264	geckodriver	INFO	Listening on 127.0.0.1:35433
+1695152159292	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileObEq9z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695152159832	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695152159970	Marionette	INFO	Listening on port 34667
+WebDriver BiDi listening on ws://127.0.0.1:40453
+Read port: 34667
+1695152160131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40453/devtools/browser/f4eee580-b27d-4ace-8f58-9856b437b951
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 400: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:400:89
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:87
+aa.zk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:412
+
+1695152428024	Marionette	INFO	Stopped listening on port 34667
+[33161] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1695152473474	geckodriver	INFO	Listening on 127.0.0.1:34223
+1695152473505	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileph9qXf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695152474061	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695152474182	Marionette	INFO	Listening on port 38461
+WebDriver BiDi listening on ws://127.0.0.1:43861
+Read port: 38461
+1695152474338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43861/devtools/browser/f7c1dc77-050f-4c6e-b1fd-3d3adce443e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 400: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:400:89
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:87
+aa.zk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:412
+
+1695152718584	Marionette	INFO	Stopped listening on port 38461
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 85: Script terminated by timeout at:
+Oa@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:85:437
+cp@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:299:519
+Yv@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:337:689
+tF/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:447:153
+aa.zk/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:399:126
+aa.zk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:420
+
+1695152720967	Marionette	INFO	Stopped listening on port 45337
+[23411] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 319: Script terminated by timeout at:
+Ht@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:319:1036
+TD@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:396:113
+aa.jm@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:428:411
+c@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:446:943
+fw@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:339:298
+ew.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:342:266
+ew.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:340:207
+Yv@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:337:712
+tF/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:447:153
+aa.zk/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:399:126
+aa.zk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:420
+
+1695152723118	Marionette	INFO	Stopped listening on port 40289
+[22161] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1695152899765	geckodriver	INFO	Listening on 127.0.0.1:55541
+1695152899793	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKSWuPP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695152900315	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695152900453	Marionette	INFO	Listening on port 36601
+WebDriver BiDi listening on ws://127.0.0.1:37483
+Read port: 36601
+1695152900663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37483/devtools/browser/e51751a9-9c69-47af-8a86-42e135a2741b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH, line 400: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:400:89
+get@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:87
+aa.zk/c/<@https://www.googletagmanager.com/gtag/js?id=G-ECCYGKNXEH:398:412
+
+1695153220577	Marionette	INFO	Stopped listening on port 36601
+[35883] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1695155277171	geckodriver	INFO	Listening on 127.0.0.1:44219
+1695155277705	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSHR6VN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695155278239	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1695155278364	Marionette	INFO	Listening on port 45887
+WebDriver BiDi listening on ws://127.0.0.1:59905
+Read port: 45887
+1695155278568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59905/devtools/browser/c07f1f92-36f0-4132-be3c-131042fd4f9d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://api-71fc1511.duosecurity.com."
+console.error: ({})
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: Communication error. Please try again.
+console.error: ({})
+JavaScript error: https://api-71fc1511.duosecurity.com/frame/static/v4/App.js?v=74cdb, line 2: Error: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://weblogin.albany.edu."

@@ -1,4 +1,5 @@
 import json
+import re
 
 import selenium
 import urllib.request
@@ -55,7 +56,7 @@ def update_idcardinfo(updatedidcardinfo):
         startdate = processnullabledate(item["startdate"])
         enddate = processnullabledate(item['enddate'])
         comment = item['comment']
-        createdate= processnullabledate(item['createdate'])
+        createdate = processnullabledate(item['createdate'])
         operatorname = item['operatorname']
         membertype = item['membertype']
         nameofgroup = item['nameofgroup']
@@ -72,24 +73,21 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
     # Diagnostic
+    # Database update part
 
-    # # Database update part
-    #
-    # f = open("output.json", "r")
-    # string1 = f.read()
-    #
-    # string1 = string1.replace("\n", "")
-    #
-    # object1 = json.loads(string1)
-    #
-    # update_idcardinfo(object1)
-    #
-    # exit()
+    f = open("output_tmp.json", "r")
+    string1 = f.read()
+
+    string1 = string1.replace("\n", "")
+
+    object1 = json.loads(string1)
+
+    update_idcardinfo(object1)
+
+    exit()
 
 
-    # urlpage = 'https://groceries.asda.com/search/yogurt'
 
-    # urlpage = 'https://quotes.toscrape.com'
 
     urlpage = 'https://idcard.albany.edu/admin/patrongroups/patrongroups.php'
     print(urlpage)
@@ -97,13 +95,29 @@ if __name__ == '__main__':
 
     driver.get(urlpage)
 
-    print("Situate yourself on main page")
-    print("Select first group and enter group name")
-    nameofgroup = input("Group Name")
+    # Get list of groups to scrape
+    idcardgroups = []
+    with open("idcardgroupnames.txt", 'r') as groupnames:
+        for groupname in groupnames:
+            pattern = r"^\d+ (.*)"
+            match = re.search(pattern, groupname)
+            idcardgroups.append(match.groups()[0])
 
-    list1 = []
+    for idcardgroup in idcardgroups:
+        print("Position yourself at group '{0}' and then type '1' to continue".format(idcardgroup))
 
-    while nameofgroup != "quit":
+        if len(input("Continue?  ")) > 0:
+            nameofgroup = idcardgroup
+        else:
+            exit()
+
+    # print("Situate yourself on main page")
+    # print("Select first group and enter group name")
+    # nameofgroup = input("Group Name")
+
+        list1 = []
+
+    # while nameofgroup != "quit":
 
         ualbanyids = driver.find_elements(By.CLASS_NAME, 'td-PIK')
         names = driver.find_elements(By.CLASS_NAME, 'td-NAME')
@@ -125,8 +139,8 @@ if __name__ == '__main__':
             tempdict["startdate"] = startdates[counter].text
             tempdict["enddate"] = enddates[counter].text
             tempdict["comment"] = comments[counter].text
-            tempdict["createdates"] = createdates[counter].text
-            tempdict["operatornames"] = operatornames[counter].text
+            tempdict["createdate"] = createdates[counter].text
+            tempdict["operatorname"] = operatornames[counter].text
             tempdict["membertype"] = membertypes[counter].text
 
             list1.append(tempdict)
@@ -134,10 +148,11 @@ if __name__ == '__main__':
 
             # driver.execute_script("wi=ndow.scrollTo(0,document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenofPage;")
 
-        nameofgroup = input("Enter next name of group")
+        # nameofgroup = input("Enter next name of group")
 
-    f = open("output.json", "a")
-    for item in list1:
-        f.write(json.dumps(item, indent=2))
-    f.close()
+        # Write out to JSON file at end
+        f = open("output_tmp.json", "a")
+        for item in list1:
+            f.write(json.dumps(item, indent=2))
+        f.close()
 

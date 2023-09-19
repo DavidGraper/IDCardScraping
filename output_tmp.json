@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "nameofgroup": "Bio- BI 141 Lab 24/7",
+      "ualbanyempid": "PIK",
+      "name": "NAME",
+      "startdate": "EFFECTIVE",
+      "enddate": "EXPIRE",
+      "comment": "COMMENT",
+      "createdate": "CREATED",
+      "operatorname": "OPERATOR",
+      "membertype": "MEMBERTYPE"
+    },
+    {
+      "nameofgroup": "Bio- BI Gen Bio Labs",
+      "ualbanyempid": "001393494",
+      "name": "Quetsia Jean-Baptiste",
+      "startdate": "08/09/2023 00:00:01",
+      "enddate": "12/22/2023 23:59:59",
+      "comment": "",
+      "createdates": "08/09/2023 13:51:22",
+      "operatornames": "000149076",
+      "membertype": "WIZARD"
+    },
+    {
+      "nameofgroup": "Bio- BI Gen Bio Labs",
+      "ualbanyempid": "000000199",
+      "name": "Richard Cunningham",
+      "startdate": "",
+      "enddate": "",
+      "comment": "",
+      "createdates": "01/17/2017 15:30:38",
+      "operatornames": "CS724698",
+      "membertype": "WIZARD"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+395 Bio- BI 141 Lab 24/7
+402 Bio- BI 009 Office
+425 Bio- BI 141 Lab 8a-5p M-F
+543 Bio- BI 001 Office
+676 Bio- BI 304 Lab 24/7
+677 Bio- BI 020 Lab 24/7
+744 Bio- BI 022 Lab 9a-5p M-F
+969 Bio- BI 304 Lab 9a-5p M-F
+970 Bio- BI 222 Conf 24/7
+971 Bio- BI 210 Lab 24/7
+1029 Bio- BI 256 Lab 24/7
+1041 Bio- BI 221 Conf 24/7
+1053 Bio- BI 254 Lab 24/7
+1169 Bio- BI 252 Lab 24/7
+3715 Bio- BI Exterior Doors 24/7
+4718 Bio- BI Classroom Access
+5070 Bio- BI 022 Refrigeration Lab
+5235 Bio- BI 023 Lab
+5289 Bio- BI Gen Bio Labs
