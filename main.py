@@ -97,7 +97,6 @@ if __name__ == '__main__':
 
     driver.get(urlpage)
 
-
     print("Situate yourself on main page")
     print("Select first group and enter group name")
     nameofgroup = input("Group Name")
