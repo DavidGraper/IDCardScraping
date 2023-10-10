@@ -75,6 +75,7 @@ if __name__ == '__main__':
     # Diagnostic
     # Database update part
 
+
     f = open("output_tmp.json", "r")
     string1 = f.read()
 
