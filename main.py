@@ -56,8 +56,8 @@ def update_idcardinfo(updatedidcardinfo):
         startdate = processnullabledate(item["startdate"])
         enddate = processnullabledate(item['enddate'])
         comment = item['comment']
-        createdate = processnullabledate(item['createdate'])
-        operatorname = item['operatorname']
+        createdate = processnullabledate(item['createdates'])
+        operatorname = item['operatornames']
         membertype = item['membertype']
         nameofgroup = item['nameofgroup']
 
@@ -125,9 +125,9 @@ if __name__ == '__main__':
         startdates = driver.find_elements(By.CLASS_NAME, 'td-GROUPEFFECTIVE')
         enddates = driver.find_elements(By.CLASS_NAME, 'td-GROUPEXPIRE')
         comments = driver.find_elements(By.CLASS_NAME, 'td-THECOMMENT')
-        createdates = driver.find_elements(By.CLASS_NAME, 'td-CREATEDATE')
-        operatornames = driver.find_elements(By.CLASS_NAME, 'td-OPERATORNAME')
-        membertypes = driver.find_elements(By.CLASS_NAME, "td-MEMBERTYPE")
+        createdate = driver.find_elements(By.CLASS_NAME, 'td-CREATEDATE')
+        operatorname = driver.find_elements(By.CLASS_NAME, 'td-OPERATORNAME')
+        membertype = driver.find_elements(By.CLASS_NAME, "td-MEMBERTYPE")
 
         #- elements = driver.find_elements(By.CLASS_NAME, 'author')
 
